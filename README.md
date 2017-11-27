@@ -26,6 +26,6 @@ queueTooLong.csv //check how the server deal with the queue too long situation.
 
 ## Standard Output
 1. Output demonstrate the number of msg you receive and send for each type.
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/dnn.png)
+![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/out1.png)
 2. Output for the client behavior in time order under excel report. 
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/dnn.png)
+![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/out2.png)
