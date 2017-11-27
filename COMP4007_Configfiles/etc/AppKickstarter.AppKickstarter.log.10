@@ -1,0 +1,101 @@
+171016-19:45:24 [INFO] -- 
+171016-19:45:24 [INFO] -- 
+171016-19:45:24 [INFO] -- ============================================================
+171016-19:45:24 [INFO] -- AppKickstarter: Application Starting...
+171016-19:45:24 [INFO] -- timer: starting...
+171016-19:45:24 [INFO] -- ThreadB: starting...
+171016-19:45:24 [INFO] -- ThreadA: starting...
+171016-19:45:26 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [11750]: Time's up!].
+171016-19:45:26 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:26 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:26 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:26 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:26 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:28 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [70230]: Time's up!].
+171016-19:45:28 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:28 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:28 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:28 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:28 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:30 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [66365]: Time's up!].
+171016-19:45:30 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:30 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:30 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:30 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:30 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:32 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [15658]: Time's up!].
+171016-19:45:32 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:32 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:32 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:32 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:32 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:34 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [76194]: Time's up!].
+171016-19:45:34 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:34 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:34 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:34 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:34 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:36 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [49864]: Time's up!].
+171016-19:45:36 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:36 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:36 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:36 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:36 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:38 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [73262]: Time's up!].
+171016-19:45:38 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:38 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:38 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:38 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:38 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:40 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [63890]: Time's up!].
+171016-19:45:40 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:40 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:40 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:40 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:40 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:42 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [40165]: Time's up!].
+171016-19:45:42 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:42 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:42 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:42 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:42 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:44 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [23646]: Time's up!].
+171016-19:45:44 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:44 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:44 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:44 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:44 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:46 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [18700]: Time's up!].
+171016-19:45:46 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:46 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:46 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:46 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:46 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:48 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [81073]: Time's up!].
+171016-19:45:48 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:48 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:48 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:48 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:48 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:50 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [11084]: Time's up!].
+171016-19:45:50 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:50 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:50 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:50 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:50 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:52 [INFO] -- ThreadA: message received: [Timer (TimesUp) -- [19819]: Time's up!].
+171016-19:45:52 [INFO] -- ThreadA: say hello to Thread B...
+171016-19:45:52 [INFO] -- ThreadB: message received: [ThreadA (Hello) -- Hello, this is Thread A!].
+171016-19:45:52 [INFO] -- ThreadB: ThreadA is saying Hello to me!!!
+171016-19:45:52 [INFO] -- ThreadA: message received: [ThreadB (HiHi) -- HiHi, this is Thread B!].
+171016-19:45:52 [INFO] -- ThreadA: ThreadB is saying HiHi to me!!!
+171016-19:45:54 [INFO] -- 
+171016-19:45:54 [INFO] -- 
+171016-19:45:54 [INFO] -- ============================================================
+171016-19:45:54 [INFO] -- AppKickstarter: Application Stopping...
+171016-19:45:54 [INFO] -- ThreadB: message received: [AppKickstarter (Terminate) -- Terminate now!].
+171016-19:45:54 [INFO] -- timer: received terminate!
+171016-19:45:54 [INFO] -- ThreadA: message received: [AppKickstarter (Terminate) -- Terminate now!].
+171016-19:45:54 [INFO] -- ThreadB: terminating...
+171016-19:45:54 [INFO] -- ThreadA: terminating...
+171016-19:45:54 [INFO] -- timer: terminating...
