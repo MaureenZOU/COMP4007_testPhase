@@ -26,19 +26,6 @@ queueTooLong.csv //check how the server deal with the queue too long situation.
 
 ## Standard Output
 1. Output demonstrate the number of msg you receive and send for each type.
-2. 
-Multi-layer Proceptron
-
 ![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/dnn.png)
-
-LSTM
-
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/lstm.png)
-
-
-
-## Experiment Result
-
-Result Comparison on different network structure
-
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/Screen%20Shot%202017-08-16%20at%2011.47.44%20PM.png)
+2. Output for the client behavior in time order under excel report. 
+![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/dnn.png)
