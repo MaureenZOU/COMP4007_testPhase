@@ -13,7 +13,7 @@ import java.util.ArrayList;
 public class Test {
     private Socket clientSocket;
     private Messager message;
-    private static String path = "/Users/maureen/Desktop/Year4.5/COMP4007/Pro/NO_GUI/testCase/";
+    private static String path = "./testCase/";
     public static int[] result;
     public static ArrayList<Client> clients = new ArrayList<>();
     public static ArrayList<Record> records = new ArrayList<>();
@@ -59,7 +59,7 @@ public class Test {
             System.out.println("numQueueTooLong: " + Event.numQueueTooLong);
 
             try {
-                new Report("/Users/maureen/Desktop/Year4.5/COMP4007/Pro/NO_GUI/report/"+Name);
+                new Report("./report/"+Name);
             } catch (FileNotFoundException e) {
                 e.printStackTrace();
             }
