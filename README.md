@@ -2,7 +2,7 @@
 > This work is the test procedure of the COMP4007 final project
 
 ## Usage
-1. Config <font color="blue">./COMP4007_Configfiles</font> on IntelliJ
+1. Config [./COMP4007_Configfiles] on IntelliJ
 2. Run
 ```sh
 ./COMP4007_Configfiles/src/AppKickstarter/Main.java
@@ -22,7 +22,9 @@ Test examples are located in the following directory:
 ```sh
 ./COMP4007_Configfiles/testCase/
 ```
-There are four test cases in total, each represents a different scenario. We randomly generated client information including clientId,numPerson,cost,reqTime and checkOut time for every case. 
+There are four test cases in total, each represents a different scenario. We randomly generated client information including clientId,numPerson,cost,reqTime and checkOut time for every case.
+
+You could switch test case through 
 
 ```sh
 checkConnection.csv //use one single client to test the capability of connection on the system.
