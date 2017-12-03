@@ -27,9 +27,13 @@ queueTooLong.csv //check how the server deal with the queue too long situation.
 ## Standard Output
 1. Output demonstrate the number of msg you receive and send for each type.
 <br />
+
 ![alt tag](https://raw.githubusercontent.com/MaureenZOU/COMP4007_testPhase/master/out1.png)
+
 <br />
 <br />
+
 2. Output for the client behavior in time order under excel report. 
 <br />
+
 ![alt tag](https://raw.githubusercontent.com/MaureenZOU/COMP4007_testPhase/master/out2.png)
