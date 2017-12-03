@@ -65,7 +65,13 @@ public class Event implements Runnable, Comparable<Event>{
         int ticketNum = Integer.parseInt(contents[0]);
         int tableNum = Integer.parseInt(contents[1]);
         this.client = Test.getClientTicket(ticketNum);
+
+        if(this.client == null){
+            return;
+        }
+
         this.client.tableNum = tableNum;
+
 
         synchronized (Test.records) {
             Test.records.add(new Record(this.client.clientId, SystemTime.global_Timer, "TicketCall"));
