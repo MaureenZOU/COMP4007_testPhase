@@ -25,7 +25,7 @@ Test examples are located in the following directory:
 There are four test cases in total, each represents a different scenario. We randomly generated client information including clientId,numPerson,cost,reqTime and checkOut time for every case.
 
 You could switch test case through [Image], located in ./COMP4007_Configfiles/src/AppKickstarter/Test.java.
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/COMP4007_testPhase/master/case.png)
+![alt tag](https://raw.githubusercontent.com/MaureenZOU/COMP4007_testPhase/master/case.jpeg)
 
 
 ```sh
