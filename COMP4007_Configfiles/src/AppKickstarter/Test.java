@@ -17,7 +17,11 @@ public class Test {
     public static int[] result;
     public static ArrayList<Client> clients = new ArrayList<>();
     public static ArrayList<Record> records = new ArrayList<>();
+<<<<<<< HEAD
     public static String Name = "hugeVolum.csv";
+=======
+    public static String Name = "normal.csv";
+>>>>>>> b9f9da0327d32bb5197f2f31452db87a1e117859
 
     public Test(String serverName, int portNum) throws IOException {
         this.clientSocket = new Socket(serverName, portNum);
